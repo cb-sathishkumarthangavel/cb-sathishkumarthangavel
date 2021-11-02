@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cb-sathishkumarthangavel
 - 👀 I’m interested in fullstack web development
-- 📫 How to reach me ...
+- 📫 How to reach me sathishkumar.thangavel@chargebee.com
 
 <!---
 cb-sathishkumarthangavel/cb-sathishkumarthangavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
